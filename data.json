@@ -1,0 +1,92 @@
+[
+    {
+        "Name": "Lồng Đèn Trung Thu 2D Mẫu Mới Năm 2023",
+        "Gia": "11,000đ - 45,000đ ",
+        "Img": "./2d-1.jpg",
+        "Type": "2d"
+    },
+    {
+        "Name": "Lồng Đèn Trung Thu 2 Mảnh Loại 2D",
+        "Gia": "35,000đ ",
+        "Img": "./2d-2.jpg",
+        "Type": "2d"
+    },
+    {
+        "Name": "Lồng Đèn Trung Thu 2D Kim Tuyến Lấp Lánh",
+        "Gia": "20,000đ",
+        "Img": "./2d-3.jpg",
+        "Type": "2d"
+    },
+    {
+        "Name": "Lồng Đèn Trung Thu 2D(Có Đèn Nhạc)",
+        "Gia": "39,000đ - 45,000đ",
+        "Img": "./2d-4.jpg",
+        "Type": "2d"
+    },
+    {
+        "Name": " Lồng Đèn DIY Bằng Gỗ Thủ Công ",
+        "Gia": "44,000đ",
+        "Img": "./2d-5.jpg",
+        "Type": "2d"
+    },
+    {
+        "Name": "Lồng Đèn Trung Thu Tre Kiếng Truyền Thống",
+        "Gia": "34,000đ",
+        "Img": "./tt-1.jpg",
+        "Type": "tt"
+    },
+    {
+        "Name": "Đèn Lồng Trung Thu Mẫu Truyền Thống Có Nhạc ",
+        "Gia": "47,000đ ",
+        "Img": "./tt-2.jpg",
+        "Type": "tt"
+    },
+    {
+        "Name": "Đèn Lồng Gỗ Trung Thu Truyền Thống",
+        "Gia": "115.000đ - 125.000đ",
+        "Img": "./tt-3.jpg",
+        "Type": "tt"
+    },
+    {
+        "Name": "Lồng Đèn Trung Thu Truyền Thống",
+        "Gia": "103,000đ - 105,000đ",
+        "Img": "./tt-4.jpg",
+        "Type": "tt"
+    },
+    {
+        "Name": "Đèn Lồng Trung Thu Xếp Giấy Truyền Thống",
+        "Gia": "12,000đ - 60,000đ ",
+        "Img": "./tt-5.jpg",
+        "Type": "tt"
+    },
+    {
+        "Name": "Mô Hình Đèn Lồng Anime Bằng Acrylic Độc Đáo",
+        "Gia": "48.380đ ",
+        "Img": "./an-1.jpg",
+        "Type": "an"
+    },
+    {
+        "Name": "Lồng Đèn In Hình Nhân Vật Anime Demon Slayer",
+        "Gia": "17,000đ - 20,000đ ",
+        "Img": "./an-2.jpg",
+        "Type": "an"
+    },
+    {
+        "Name": "Mô hình Standee Mini THIÊN QUAN TỨ PHÚC ",
+        "Gia": "28,000đ ",
+        "Img": "./an-3.jpg",
+        "Type": "an"
+    },
+    {
+        "Name": "Lồng Đèn Oshi no Ko Anime",
+        "Gia": "41,000đ ",
+        "Img": "./an-4.jpg",
+        "Type": "an"
+    },
+    {
+        "Name": "Mô Hình Đèn Lồng Bằng Acrylic Cho Bạn Gái",
+        "Gia": "42,600đ ",
+        "Img": "./an-5.jpg",
+        "Type": "an"
+    }
+]
